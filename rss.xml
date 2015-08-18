@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[No Coast Startup]]></title>
+        <description><![CDATA[No Coast Startup]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 18 Aug 2015 19:27:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vision]]></title>
+            <description><![CDATA[<article><h1>Vision</h1><p>No Coast Startup brings together every startup community without a coast to call their own. The vision is to bring awareness to what is happening outside of traditional startup hotbeds. </p></article>]]></description>
+            <guid isPermaLink="false">d24a109b-b559-4d97-84fc-b784749ba680</guid>
+            <pubDate>Tue, 18 Aug 2015 19:26:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
