@@ -1,6 +1,6 @@
 name: No Coast Startup
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.07575983251444995
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: awareness
     item: null
     url: null
+typography_spectrum: 0.77390764397569
